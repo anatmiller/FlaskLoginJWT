@@ -1,5 +1,6 @@
 # Python Simple HTTPS Server - Login Page
-A login page implemented by using only Python core libs, bootstrap and jquery
+A login page implemented by using only Python core libs, bootstrap and jquery.
+
 When the user is logged in - a list of active users is displayed.
 
 ## Technologies
