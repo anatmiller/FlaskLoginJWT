@@ -13,8 +13,9 @@ Author: Liran Farage
 * Registered users details is listed in `config.py`
 
 ## Usage
-### 1. enable virtual environment
+### 1. create/enable virtual environment
 ```bash
+$ virtualenv -p python3 venv
 $ source venv/bin/activate
 ```
 ### 2. database - create and seed
